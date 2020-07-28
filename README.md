@@ -16,7 +16,7 @@ Example for targeting Windows 64bit
 Example for targeting Linux 32bit
 > GOOS=linux GOARCH=386 go build goReverseShell.go
 
-Example for targeting Windows 64bit
+Example for targeting Linux 64bit
 > GOOS=linux GOARCH=x64 go build goReverseShell.go
 
 Documentation: https://golang.org/doc/install/source#environment
