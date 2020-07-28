@@ -11,13 +11,13 @@ Example for targeting Windows 32bit
 > GOOS=windows GOARCH=386 go build goReverseShell.go
 
 Example for targeting Windows 64bit
-> GOOS=windows GOARCH=x64 go build goReverseShell.go
+> GOOS=windows GOARCH=amd64 go build goReverseShell.go
 
 Example for targeting Linux 32bit
 > GOOS=linux GOARCH=386 go build goReverseShell.go
 
 Example for targeting Linux 64bit
-> GOOS=linux GOARCH=x64 go build goReverseShell.go
+> GOOS=linux GOARCH=amd64 go build goReverseShell.go
 
 Documentation: https://golang.org/doc/install/source#environment
 
